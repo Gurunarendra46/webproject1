@@ -66,9 +66,15 @@ function registerUser() {
 			break
 
 		} 
-		else if (registerfullname.length < 1 && registerEmail.length < 1) {
+		else if (registerfullname.length < 1 ) {
 
-			alert('No blanks, mention the information to sign up')
+			alert('No blanks, mention ur full name to sign up')
+
+			break
+		}
+		else if ( registerEmail.length < 1) {
+
+			alert('No blanks, mention ur email to sign up')
 
 			break
 		}
