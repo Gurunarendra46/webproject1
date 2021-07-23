@@ -3,14 +3,6 @@ var objPeople = [
 	{
 		username: 'user1',
 		password: '987654321'
-	},
-	{
-		username: 'user2',
-		password: '123456789'
-	},
-	{
-		username: 'tcs',
-		password: 'tcs12345'
 	}
 ]
 
