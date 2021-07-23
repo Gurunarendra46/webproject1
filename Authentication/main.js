@@ -6,7 +6,7 @@ var objPeople = [
 	},
 	{
 		username: 'jay',
-		password: '87654321'
+		password: '987654321'
 	},
 	{
 		username: 'tcs',
