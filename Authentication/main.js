@@ -1,12 +1,12 @@
 // Create a registration system
 var objPeople = [
 	{
-		username: 'guru',
-		password: '8333847791'
+		username: 'user1',
+		password: '987654321'
 	},
 	{
-		username: 'jay',
-		password: '987654321'
+		username: 'user2',
+		password: '123456789'
 	},
 	{
 		username: 'tcs',
