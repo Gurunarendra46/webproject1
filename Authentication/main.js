@@ -65,7 +65,14 @@ function registerUser() {
 
 			break
 
-		} else if (registerPassword.length < 8) {
+		} 
+		else if (registerUsername.length < 1) {
+
+			alert('That is blank, mention the Username for u')
+
+			break
+		}
+		else if (registerPassword.length < 8) {
 
 			alert('That is very short password, include > 8 characters')
 
