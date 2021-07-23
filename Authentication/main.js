@@ -47,7 +47,7 @@ function login() {
 		} else {
 			console.log('incorrect username or password')
 			alert('Invalid username or Password')
-			location.href = 'pasword.html';
+			location.href = '/Authentication/signin.html';
 			break
 		}
 	}
@@ -81,7 +81,7 @@ function registerUser() {
 		}
 		else{
 		alert('successfully registered')
-		location.href = 'pasword.html';
+		location.href = '/Authentication/signin.html';
 
 		break
 		}
